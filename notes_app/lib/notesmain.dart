@@ -1,7 +1,6 @@
-import 'package:firebaseAuth/services/sharedPref.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'Services/sharedPref.dart';
 import 'screens/home.dart';
 import 'data/theme.dart';
 
